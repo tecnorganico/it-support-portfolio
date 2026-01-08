@@ -1,6 +1,7 @@
 #!/bin/bash
 # System Information Script
 # Purpose: Collect basic system information for IT Support troubleshooting
+# Description: This Bash script gathers basic system and network information commonly requested during Linux troubleshooting.
 
 echo "==== SYSTEM INFORMATION ===="
 
