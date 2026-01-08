@@ -55,3 +55,13 @@ IT Support professional transitioning fully into technical support roles, with e
 Currently open to remote opportunities and international teams.
 
 LinkedIn: [https://www.linkedin.com/in/ramiresbaptista](https://www.linkedin.com/in/ramiresbaptista)
+
+## 📌 Why This Portfolio?
+
+This repository focuses on real-world IT Support scenarios, emphasizing:
+- Clear troubleshooting steps
+- User-centered documentation
+- Simple and effective scripts
+- Remote support readiness
+
+It is not a programming portfolio, but a demonstration of practical IT Support skills.
