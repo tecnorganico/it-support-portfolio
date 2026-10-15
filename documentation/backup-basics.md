@@ -110,3 +110,7 @@ Escalate if:
 * Data restoration is unsuccessful
 
 Timely escalation prevents larger incidents.
+
+## OneDrive User Backup
+
+For a practical Microsoft 365 home-user configuration, see [OneDrive User Backup](onedrive-user-backup.md). It covers Known Folder Backup, Files On-Demand, AutoSave, synchronization checks, and restore testing.

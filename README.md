@@ -14,6 +14,10 @@ This portfolio is designed to demonstrate organization, problem-solving, and com
 * Basic operating system checks
 * User onboarding and technical documentation
 * Security and good digital practices
+* Windows troubleshooting and system recovery
+* Cloud backup and Microsoft 365 support
+* Security-aware escalation
+* Accessibility-aware user support
 
 ---
 
@@ -27,6 +31,9 @@ This portfolio is designed to demonstrate organization, problem-solving, and com
 
 * **scripts/**
   Simple scripts used to collect system or network information for troubleshooting purposes.
+
+* **case-studies/**
+  Anonymized real-world support scenarios covering diagnosis, resolution, verification, and lessons learned.
 
 ---
 
@@ -63,5 +70,6 @@ This repository focuses on real-world IT Support scenarios, emphasizing:
 - User-centered documentation
 - Simple and effective scripts
 - Remote support readiness
+- Security-aware escalation and accessibility-aware support
 
 It is not a programming portfolio, but a demonstration of practical IT Support skills.

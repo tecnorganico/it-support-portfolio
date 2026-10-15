@@ -29,3 +29,13 @@ PowerShell script for Windows systems that collects basic system information, in
 * Disk space
 
 These details are commonly requested during initial IT Support troubleshooting and documentation.
+
+## windows-health-check.ps1
+
+Read-only Windows health inventory script that collects hardware, storage, security, startup, process, and installed-software information. It can display the results or export them to a timestamped text report with `-OutputDirectory`. It does not install, uninstall, stop, disable, or modify anything.
+
+## recover-pdf-from-tmp.ps1
+
+Safe recovery helper that scans a user-selected folder for `.tmp` files whose header is `%PDF-`. It renames only verified PDF files, never overwrites an existing PDF, supports `-WhatIf`, and records each action.
+
+Scripts avoid collecting passwords, tokens, MFA information, or personal files. Review output before sharing a report.
